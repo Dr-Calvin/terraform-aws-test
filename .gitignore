@@ -1,0 +1,7 @@
+# Terraform providers folder
+.terraform
+
+# Terraform state
+*.tfstate
+*.tfstate.backup
+
