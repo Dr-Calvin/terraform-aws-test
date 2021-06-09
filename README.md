@@ -7,9 +7,7 @@ Ensure you have setup AWS profile on local device then run
 
 To apply configuration:
 
-> terraform apply [optional: --auto-approve]
-
-[Optional parameter ]
+> terraform apply
 
 Full list of resources created:
 aws_eip.elip
